@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/sahidalam000" target="blank"><img src="https://img.shields.io/twitter/follow/sahidalam000?logo=twitter&style=for-the-badge" alt="sahidalam000" /></a> </p>
 
-- 🔭 I’m currently working on **Online Crime Reporting Management System**
+- 🔭 I’m currently working on **Tour Management System Project**
 
-- 🌱 I’m currently learning **React.js, Express.js**
+- 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB**
 
-- 💬 Ask me about **Mern**
+- 💬 Ask me about **Website**
 
 - 📫 How to reach me **sahidalam538@gmail.com**
 
