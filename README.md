@@ -32,19 +32,19 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sahid-alam/">
 LinkedIn
 </a>
 
 |
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://sahidalam.vercel.app/">
 Portfolio
 </a>
 
 |
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sahidalam538@gmail.com">
 Email
 </a>
 
@@ -56,7 +56,7 @@ Email
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,html,css,tailwind,python,git,github,firebase,mysql"/>
+<img src="https://skillicons.dev/icons?i=react.js,nextjs,nodejs,express.js,mongodb,js,html,css,tailwind,python,git,github,firebase,mysql"/>
 
 </p>
 
@@ -67,10 +67,10 @@ Email
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true"/>
+src="https://github-readme-stats.vercel.app/api?username=sahidalam000&show_icons=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidalam000E&layout=compact"/>
 
 </p>
 
@@ -80,7 +80,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahidalam000"/>
 
 </p>
 
@@ -90,7 +90,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sahidalam000"/>
 
 </p>
 
@@ -98,42 +98,29 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_
 
 ## 💼 Featured Projects
 
-### Rescue Plate
-Food waste management system
+### HireHub - A Role Based Job Portal
+Both Employers & Job Seeekers
 
 Tech:
-HTML • CSS • JS • PHP • MySQL
+React • Node.js • Express • MongoDB • Cloudinary
 
 ---
 
-### Fake News Detection System
+### Bright Future Tutoring - A Learning Plateform
+Both Students and Admin
 
-BERT Model
-Machine Learning
-NLP
+Tech:
+React • Node.js • Express • MongoDB • Cloudinary • Stripe
 
----
-
-### Online Mental Wellness Platform
-
-MERN Stack
 
 ---
 
-### Management Booking System
-
-React
-MongoDB
-Express
-Node
-
----
 
 ## 📊 Profile Views
 
 <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME"/>
+<img src="https://komarev.com/ghpvc/?username=sahidalam000"/>
 
 </p>
 
