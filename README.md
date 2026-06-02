@@ -35,14 +35,15 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <a href="https://www.linkedin.com/in/sahid-alam/">
 LinkedIn
 </a>
-https://www.linkedin.com/in/sahid-alam/
+
 |
 
 <a href="https://sahidalam.vercel.app/">
 Portfolio
 </a>
-https://sahidalam.vercel.app/
+
 |
+
 
 <a href="mailto:sahidalam538@gmail.com">
 Email
