@@ -56,25 +56,12 @@ Email
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=react.js,nextjs,nodejs,express.js,mongodb,js,html,css,tailwind,python,git,github,firebase,mysql"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,html,css,tailwind,python,git,github,firebase,mysql"/>
 
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=sahidalam000&show_icons=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidalam000E&layout=compact"/>
-
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -86,15 +73,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidalam000
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sahidalam000"/>
-
-</p>
-
----
 
 ## 💼 Featured Projects
 
